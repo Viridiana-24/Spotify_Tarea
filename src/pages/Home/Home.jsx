@@ -60,6 +60,10 @@ function Home() {
                 <Button variant="contained" onClick={search}>
                     Search
                 </Button>
+                <Button variant="contained"> <a href='https://github.com/Viridiana-24/Spotify_Tarea.git'>GitHub</a>
+                    
+                </Button>
+            
             </Grid>
             <Grid>
                 
